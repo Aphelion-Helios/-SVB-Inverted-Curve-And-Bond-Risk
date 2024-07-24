@@ -1,1 +1,1 @@
-# -SVB-Inverted-Curve-And-Bond-Risk
+# SVB-Inverted-Curve-And-Bond-Risk
